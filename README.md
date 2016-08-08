@@ -1,2 +1,2 @@
 # django-tutorial
-Official Django Tutorial v1.9. Just for practice and reference.
+Official Django Tutorial v1.10. Just for practice and reference.
